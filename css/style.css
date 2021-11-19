@@ -1,0 +1,37 @@
+.box{
+	text-align: center;
+	background-color: lightyellow;
+	border: 7px outset blue;
+}
+.head{
+	text-align: center;
+}
+#search{
+	size: 15px;
+}
+.box3{
+	color: tomato;
+}
+.head1{
+	background-color: tomato;
+
+}
+}
+table{
+	width: 100%;
+	border: 2px solid black;
+
+}
+th, td{
+font-size: 20px;
+text-align: center;
+}
+td:hover{
+	background-color: #ddd;
+}
+table, td, th {
+  border: 1px solid black;
+}
+.table{
+	text-align: center;
+}
